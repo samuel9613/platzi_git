@@ -1,1 +1,1 @@
-Se hace la primera modificación del archivo, dentro de la rama secundaria
+Se hace la primera modificación del archivo, dentro de la rama principal del repositorio github
