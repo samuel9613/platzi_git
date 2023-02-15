@@ -1,1 +1,2 @@
 Se hace la primera modificación del archivo, dentro de la rama principal del repositorio github
+Nueva modificación para ver las diferencias en la consola de git bash
